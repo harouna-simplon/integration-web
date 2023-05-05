@@ -1,0 +1,714 @@
+/* screen - reserve-vol2 */
+
+.reserve-vol2 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1193px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .reserve-vol2 .group-57 {
+    align-items: flex-start;
+    display: flex;
+    min-width: 1440px;
+  }
+  
+  .reserve-vol2 .overlap-group2 {
+    height: 160px;
+    position: relative;
+    width: 1452px;
+  }
+  
+  .reserve-vol2 .group-21 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 160px;
+    position: absolute;
+    top: 0;
+    width: 1452px;
+  }
+  
+  .reserve-vol2 .overlap-group1-1 {
+    align-items: flex-start;
+    background-color: var(--lochmara);
+    display: flex;
+    gap: 533px;
+    height: 57px;
+    min-width: 1440px;
+    padding: 17px 15px;
+  }
+  
+  .reserve-vol2 .explorer-le-monde-vivez-laventure {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 416px;
+  }
+  
+  .reserve-vol2 .reservation-777533518 {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+  }
+  
+  .reserve-vol2 .overlap-group-3 {
+    height: 103px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .reserve-vol2 .rectangle-2 {
+    background-color: var(--white);
+    height: 101px;
+    top: 2px;
+    width: 1440px;
+  }
+  
+  .reserve-vol2 .place {
+    left: 688px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol2 .hebergement {
+    left: 811px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol2 .mon-compte {
+    left: 982px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol2 .vente-flash {
+    left: 1132px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol2 .avion-1 {
+    height: 20px;
+    left: 668px;
+    object-fit: cover;
+    position: absolute;
+    top: 42px;
+    width: 20px;
+  }
+  
+  .reserve-vol2 .hotel-1 {
+    height: 20px;
+    left: 791px;
+    object-fit: cover;
+    position: absolute;
+    top: 42px;
+    width: 20px;
+  }
+  
+  .reserve-vol2 .parc-dattractions-1 {
+    height: 20px;
+    left: 954px;
+    object-fit: cover;
+    position: absolute;
+    top: 43px;
+    width: 20px;
+  }
+  
+  .reserve-vol2 .vente-flash-1 {
+    height: 20px;
+    left: 1112px;
+    object-fit: cover;
+    position: absolute;
+    top: 43px;
+    width: 20px;
+  }
+  
+  .reserve-vol2 .travel_treks-removebg-preview-1 {
+    cursor: pointer;
+    height: 100px;
+    left: 223px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100px;
+  }
+  
+  .reserve-vol2 .frame-9 {
+    gap: 20px;
+    height: 30px;
+    left: 1279px;
+    min-width: 130px;
+    position: absolute;
+    top: 13px;
+  }
+  
+  .reserve-vol2 .icon {
+    height: 30px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .reserve-vol2 .overlap-group29 {
+    height: 463px;
+    margin-top: 2px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .reserve-vol2 .vous-etes-sur-la-pla {
+    left: 243px;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 327px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol2 .rectangle-3 {
+    height: 463px;
+    object-fit: cover;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .reserve-vol2 .vous-etes-sur-le-pla {
+    left: 403px;
+    letter-spacing: 0.50px;
+    line-height: normal;
+    position: absolute;
+    top: 357px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol2 .bienvenue-chez-travel-treks {
+    left: 767px;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 145px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol2 .group-container {
+    height: 531px;
+    margin-right: -42px;
+    margin-top: 25px;
+    position: relative;
+    width: 1380px;
+  }
+  
+  .reserve-vol2 .group-95 {
+    align-items: flex-start;
+    display: flex;
+    gap: 96px;
+    height: 426px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 1197px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .reserve-vol2 .x5561899_21273-1 {
+    height: 426px;
+    object-fit: cover;
+    width: 677px;
+  }
+  
+  .reserve-vol2 .group-93 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 414px;
+    width: 432px;
+  }
+  
+  .reserve-vol2 .overlap-group1-2 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    min-width: 424px;
+    padding: 11.3px 28.7px;
+  }
+  
+  .reserve-vol2 .lieu-de-depart {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    width: 227px;
+  }
+  
+  .reserve-vol2 .overlap-group-4 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    margin-top: 21px;
+    min-width: 424px;
+    padding: 11.3px 28.7px;
+  }
+  
+  .reserve-vol2 .destination {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    width: 227px;
+  }
+  
+  .reserve-vol2 .overlap-group3 {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    margin-top: 21px;
+    min-width: 424px;
+    padding: 10.0px 28.7px;
+  }
+  
+  .reserve-vol2 .calendrier-2 {
+    align-self: flex-end;
+    height: 39px;
+    object-fit: cover;
+    width: 64px;
+  }
+  
+  .reserve-vol2 .votre-date {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 42px;
+    margin-top: 5.72px;
+    min-height: 23px;
+    width: 155px;
+  }
+  
+  .reserve-vol2 .icon-chevron-bottom {
+    cursor: pointer;
+    height: 14px;
+    margin-left: 38px;
+    margin-top: 5.29px;
+    width: 42px;
+  }
+  
+  .reserve-vol2 .overlap-group2-1 {
+    align-items: flex-start;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 60px;
+    margin-top: 119px;
+    min-width: 200px;
+    padding: 16.4px 41px;
+  }
+  
+  .reserve-vol2 .reservation {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 26px;
+    width: 118px;
+  }
+  
+  .reserve-vol2 .overlap-group7 {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    left: 1021px;
+    min-height: 284px;
+    padding: 1px 9px;
+    position: absolute;
+    top: 247px;
+    width: 305px;
+  }
+  
+  .reserve-vol2 .juin-2023 {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 29.0px;
+    min-height: 18px;
+    white-space: nowrap;
+    width: 66px;
+  }
+  
+  .reserve-vol2 .flex-row {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 9px;
+    margin-top: 18px;
+    min-width: 246px;
+  }
+  
+  .reserve-vol2 .l {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 18px;
+    white-space: nowrap;
+    width: 4px;
+  }
+  
+  .reserve-vol2 .m {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 35px;
+    min-height: 18px;
+    white-space: nowrap;
+    width: 14px;
+  }
+  
+  .reserve-vol2 .overlap-group28 {
+    height: 49px;
+    margin-left: 12px;
+    position: relative;
+    width: 181px;
+  }
+  
+  .reserve-vol2 .m-1 {
+    left: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 14px;
+  }
+  
+  .reserve-vol2 .j {
+    left: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 6px;
+  }
+  
+  .reserve-vol2 .v {
+    left: 87px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 6px;
+  }
+  
+  .reserve-vol2 .overlap-group20 {
+    height: 49px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 181px;
+  }
+  
+  .reserve-vol2 .sl {
+    left: 126px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 6px;
+  }
+  
+  .reserve-vol2 .frame-8 {
+    gap: 10px;
+    height: 25px;
+    left: 0;
+    min-width: 181px;
+    position: absolute;
+    top: 24px;
+  }
+  
+  .reserve-vol2 .overlap-group {
+    align-items: center;
+    background-color: var(--alto);
+    display: flex;
+    height: 24px;
+    justify-content: flex-end;
+    min-width: 28px;
+    padding: 0 1px;
+  }
+  
+  .reserve-vol2 .number {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 16px;
+  }
+  
+  .reserve-vol2 .group-41 {
+    background-color: var(--alto);
+    height: 24px;
+    width: 28px;
+  }
+  
+  .reserve-vol2 .d {
+    left: 167px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 6px;
+  }
+  
+  .reserve-vol2 .frame-4 {
+    gap: 10px;
+    height: 25px;
+    margin-left: 1px;
+    margin-top: 14px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .reserve-vol2 .group {
+    height: 24px;
+    min-width: 30px;
+    position: relative;
+  }
+  
+  .reserve-vol2 .overlap-group5 {
+    align-items: center;
+    background-color: var(--alto);
+    display: flex;
+    height: 24px;
+    min-width: 28px;
+  }
+  
+  .reserve-vol2 .number-3 {
+    min-height: 14px;
+    white-space: nowrap;
+    width: 27px;
+  }
+  
+  .reserve-vol2 .group-45 {
+    height: 24px;
+    margin-right: -2.00px;
+    min-width: 30px;
+    position: relative;
+  }
+  
+  .reserve-vol2 .overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    gap: 10px;
+    margin-left: 1px;
+    margin-top: 14px;
+    min-width: 256px;
+  }
+  
+  .reserve-vol2 .overlap-group-1 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    min-width: 28px;
+    padding: 1px 0;
+  }
+  
+  .reserve-vol2 .number-1 {
+    min-height: 19px;
+    width: 17px;
+  }
+  
+  .reserve-vol2 .overlap-group8 {
+    align-items: center;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    min-width: 28px;
+    padding: 0 1px;
+  }
+  
+  .reserve-vol2 .number-4 {
+    min-height: 15px;
+    white-space: nowrap;
+    width: 16px;
+  }
+  
+  .reserve-vol2 .overlap-group10 {
+    align-items: center;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    min-width: 28px;
+    padding: 0 5px;
+  }
+  
+  .reserve-vol2 .overlap-group-container-1 {
+    min-width: 256px;
+  }
+  
+  .reserve-vol2 .overlap-group27 {
+    height: 25px;
+    position: relative;
+    width: 34px;
+  }
+  
+  .reserve-vol2 .rectangle-24 {
+    background-color: var(--alto);
+    height: 25px;
+    top: 0;
+    width: 28px;
+  }
+  
+  .reserve-vol2 .number-5 {
+    left: 7px;
+    position: absolute;
+    top: 6px;
+    white-space: nowrap;
+    width: 27px;
+  }
+  
+  .reserve-vol2 .overlap-group9 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    margin-left: 4px;
+    min-width: 28px;
+    padding: 3px 4px;
+  }
+  
+  .reserve-vol2 .number-2 {
+    min-height: 18px;
+    white-space: nowrap;
+    width: 19px;
+  }
+  
+  .reserve-vol2 .overlap-group1 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    margin-left: 10px;
+    min-width: 28px;
+    padding: 3px 4px;
+  }
+  
+  .reserve-vol2 .number-6 {
+    min-height: 18px;
+    white-space: nowrap;
+    width: 17px;
+  }
+  
+  .reserve-vol2 .overlap-group18 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    margin-left: 10px;
+    min-width: 28px;
+    padding: 3px 2px;
+  }
+  
+  .reserve-vol2 .overlap-group14 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    margin-left: 10px;
+    min-width: 28px;
+    padding: 3px;
+  }
+  
+  .reserve-vol2 .overlap-group-container-2 {
+    gap: 10px;
+    margin-left: 1px;
+    min-width: 180px;
+  }
+  
+  .reserve-vol2 .overlap-group-2 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    min-width: 28px;
+    padding: 1px 4px;
+  }
+  
+  .reserve-vol2 .overlap-group24 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    min-width: 28px;
+    padding: 1px 5px;
+  }
+  
+  .reserve-vol2 .number-7 {
+    min-height: 18px;
+    white-space: nowrap;
+    width: 18px;
+  }
+  
+  .reserve-vol2 .overlap-group19 {
+    align-items: flex-end;
+    background-color: var(--alto);
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    min-width: 28px;
+    padding: 3px 4px;
+  }
+  
+  .reserve-vol2 .frame {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .reserve-vol2 .number-8 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .reserve-vol2 .overlap-group-container-3 {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 14px;
+  }
+  
+  .reserve-vol2 .rectangle {
+    left: 0;
+    position: absolute;
+  }
+  

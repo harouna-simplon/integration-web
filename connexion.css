@@ -1,0 +1,380 @@
+/* screen - connexion */
+
+.connexion {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1306px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .connexion .group-57 {
+    align-items: flex-start;
+    display: flex;
+    min-width: 1440px;
+  }
+  
+  .connexion .overlap-group2 {
+    height: 162px;
+    position: relative;
+    width: 1452px;
+  }
+  
+  .connexion .group-21 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 162px;
+    position: absolute;
+    top: 0;
+    width: 1452px;
+  }
+  
+  .connexion .overlap-group1 {
+    align-items: flex-end;
+    background-color: var(--lochmara);
+    display: flex;
+    gap: 533px;
+    height: 59px;
+    min-width: 1440px;
+    padding: 18px 15px;
+  }
+  
+  .connexion .explorer-le-monde-vivez-laventure {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 416px;
+  }
+  
+  .connexion .reservation-777533518 {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 228px;
+  }
+  
+  .connexion .overlap-group {
+    align-items: center;
+    background-color: var(--white);
+    box-shadow: 0px 3px 4px #b19c9c;
+    display: flex;
+    height: 103px;
+    justify-content: flex-end;
+    min-width: 1440px;
+    padding: 0 219px;
+  }
+  
+  .connexion .travel_treks-removebg-preview-1 {
+    align-self: flex-start;
+    cursor: pointer;
+    height: 100px;
+    object-fit: cover;
+    width: 100px;
+  }
+  
+  .connexion .avion-1 {
+    cursor: pointer;
+    height: 20px;
+    margin-left: 345px;
+    margin-top: 1.0px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .connexion .place {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 2.0px;
+    min-height: 19px;
+    min-width: 32px;
+    white-space: nowrap;
+  }
+  
+  .connexion .hotel-1 {
+    height: 20px;
+    margin-left: 71px;
+    margin-top: 1.0px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .connexion .hebergement {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 2.0px;
+    min-height: 19px;
+    min-width: 104px;
+    white-space: nowrap;
+  }
+  
+  .connexion .parc-dattractions-1 {
+    height: 20px;
+    margin-left: 39px;
+    margin-top: 3.0px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .connexion .mon-compte {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 8px;
+    margin-top: 2.0px;
+    min-height: 19px;
+    min-width: 98px;
+    white-space: nowrap;
+  }
+  
+  .connexion .vente-flash-1 {
+    height: 20px;
+    margin-left: 32px;
+    margin-top: 3.0px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .connexion .vente-flash {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 2.0px;
+    min-height: 19px;
+    min-width: 89px;
+    white-space: nowrap;
+  }
+  
+  .connexion .frame-9 {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    height: 30px;
+    left: 1279px;
+    min-width: 130px;
+    position: absolute;
+    top: 15px;
+  }
+  
+  .connexion .icon {
+    height: 30px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .connexion .group-22 {
+    align-items: flex-start;
+    display: flex;
+    height: 482px;
+    margin-left: 4.0px;
+    min-width: 1444px;
+  }
+  
+  .connexion .overlap-group3 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-3-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 66px;
+    min-height: 482px;
+    padding: 160px 426px;
+    width: 1440px;
+  }
+  
+  .connexion .title {
+    align-self: center;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    margin-right: 1.0px;
+    min-height: 36px;
+    min-width: 485px;
+    white-space: nowrap;
+  }
+  
+  .connexion .un-monde-de-voyage-a-portee-de-clic {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .connexion .hello-bienvenue-dans {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 49.0px;
+    margin-top: 35px;
+    min-height: 18px;
+    min-width: 371px;
+    white-space: nowrap;
+  }
+  
+  .connexion .overlap-group5 {
+    height: 492px;
+    margin-left: 1.0px;
+    margin-top: 37px;
+    position: relative;
+    width: 1101px;
+  }
+  
+  .connexion .rectangle-33 {
+    background-color: var(--alto);
+    height: 492px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 522px;
+  }
+  
+  .connexion .group-87 {
+    align-items: center;
+    display: flex;
+    gap: 165px;
+    height: 492px;
+    left: 30px;
+    min-width: 1071px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .connexion .group-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-bottom: 9.0px;
+    min-height: 453px;
+    width: 332px;
+  }
+  
+  .connexion .group-88 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 405px;
+    width: 332px;
+  }
+  
+  .connexion .connexion-1 {
+    align-self: flex-end;
+    margin-right: 50px;
+    min-width: 91px;
+  }
+  
+  .connexion .id-client {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 7px;
+    margin-top: 53px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .connexion .line-2 {
+    height: 1px;
+    margin-top: 1px;
+    object-fit: cover;
+    width: 303px;
+  }
+  
+  .connexion .votre-mot-de-pass {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 7px;
+    margin-top: 38px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .connexion .overlap-group1-1 {
+    align-items: center;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    margin-left: 2px;
+    margin-top: 33px;
+    min-width: 163px;
+    padding: 0 41px;
+  }
+  
+  .connexion .connexion-2 {
+    min-width: 77px;
+  }
+  
+  .connexion .vous-navez-pas-de-compte {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 6px;
+    margin-top: 49px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .connexion .overlap-group-1 {
+    align-items: center;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 34px;
+    margin-top: 33px;
+    min-width: 163px;
+    padding: 0 18px;
+  }
+  
+  .connexion .creer-maintenant {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 18px;
+    min-width: 126px;
+    white-space: nowrap;
+  }
+  
+  .connexion .partager-nous-sur-vos-reseaux {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 14px;
+    margin-top: 37px;
+    min-height: 18px;
+    min-width: 223px;
+    white-space: nowrap;
+  }
+  
+  .connexion .group-container-1 {
+    height: 30px;
+    margin-left: 100.0px;
+    position: relative;
+    width: 130px;
+  }
+  
+  .connexion .group-6 {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    height: 30px;
+    left: 0;
+    min-width: 130px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .connexion .x11668712_20945294-1 {
+    height: 492px;
+    object-fit: cover;
+    width: 574px;
+  }
+  
+  .connexion .connexion-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  

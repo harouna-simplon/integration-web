@@ -1,0 +1,334 @@
+/* screen - reserve-vol */
+
+.reserve-vol {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1234px;
+    width: 1440px;
+  }
+  
+  .reserve-vol .group-57 {
+    min-width: 1440px;
+  }
+  
+  .reserve-vol .overlap-group2 {
+    height: 160px;
+    position: relative;
+    width: 1452px;
+  }
+  
+  .reserve-vol .group-21 {
+    flex-direction: column;
+    left: 0;
+    min-height: 160px;
+    position: absolute;
+    top: 0;
+    width: 1452px;
+  }
+  
+  .reserve-vol .overlap-group {
+    align-items: flex-start;
+    background-color: var(--lochmara);
+    display: flex;
+    gap: 533px;
+    height: 57px;
+    min-width: 1440px;
+    padding: 17px 15px;
+  }
+  
+  .reserve-vol .explorer-le-monde-vivez-laventure {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 416px;
+  }
+  
+  .reserve-vol .reservation-777533518 {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+  }
+  
+  .reserve-vol .overlap-group1 {
+    height: 103px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .reserve-vol .rectangle-2 {
+    background-color: var(--white);
+    height: 101px;
+    top: 2px;
+  }
+  
+  .reserve-vol .place {
+    left: 688px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .hebergement {
+    left: 811px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .mon-compte {
+    left: 982px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .vente-flash {
+    left: 1132px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .avion-1 {
+    cursor: pointer;
+    height: 20px;
+    left: 668px;
+    object-fit: cover;
+    position: absolute;
+    top: 42px;
+    width: 20px;
+  }
+  
+  .reserve-vol .hotel-1 {
+    height: 20px;
+    left: 791px;
+    object-fit: cover;
+    position: absolute;
+    top: 42px;
+    width: 20px;
+  }
+  
+  .reserve-vol .parc-dattractions-1 {
+    height: 20px;
+    left: 954px;
+    object-fit: cover;
+    position: absolute;
+    top: 43px;
+    width: 20px;
+  }
+  
+  .reserve-vol .vente-flash-1 {
+    height: 20px;
+    left: 1112px;
+    object-fit: cover;
+    position: absolute;
+    top: 43px;
+    width: 20px;
+  }
+  
+  .reserve-vol .travel_treks-removebg-preview-1 {
+    cursor: pointer;
+    height: 100px;
+    left: 223px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100px;
+  }
+  
+  .reserve-vol .frame-9 {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    height: 30px;
+    left: 1279px;
+    min-width: 130px;
+    position: absolute;
+    top: 13px;
+  }
+  
+  .reserve-vol .frame-9-item {
+    height: 30px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .reserve-vol .overlap-group4 {
+    height: 482px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .reserve-vol .vous-etes-sur-la-pla {
+    left: 243px;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 329px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .rectangle-3 {
+    height: 482px;
+    object-fit: cover;
+    top: 0;
+  }
+  
+  .reserve-vol .bienvenue-chez-travel-treks {
+    left: 736px;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 147px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .vous-etes-sur-le-pla {
+    left: 403px;
+    letter-spacing: 0.50px;
+    line-height: normal;
+    position: absolute;
+    top: 359px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .group-95 {
+    gap: 96px;
+    justify-content: flex-end;
+    margin-right: 100.78px;
+    margin-top: 28px;
+    min-width: 1197px;
+  }
+  
+  .reserve-vol .x5561899_21273-1 {
+    height: 426px;
+    object-fit: cover;
+    width: 677px;
+  }
+  
+  .reserve-vol .group-93 {
+    flex-direction: column;
+    min-height: 414px;
+    width: 432px;
+  }
+  
+  .reserve-vol .overlap-group3 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    min-width: 424px;
+    padding: 11.3px 28.7px;
+  }
+  
+  .reserve-vol .lieu-de-depart {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    width: 227px;
+  }
+  
+  .reserve-vol .overlap-group1-1 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    margin-top: 21px;
+    min-width: 424px;
+    padding: 11.3px 28.7px;
+  }
+  
+  .reserve-vol .destination {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    width: 227px;
+  }
+  
+  .reserve-vol .overlap-group2-1 {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    margin-top: 21px;
+    min-width: 424px;
+    padding: 10.0px 28.7px;
+  }
+  
+  .reserve-vol .calendrier-2 {
+    align-self: flex-end;
+    height: 39px;
+    object-fit: cover;
+    width: 64px;
+  }
+  
+  .reserve-vol .votre-date {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 42px;
+    margin-top: 5.72px;
+    min-height: 23px;
+    width: 155px;
+  }
+  
+  .reserve-vol .icon-chevron-bottom {
+    cursor: pointer;
+    height: 14px;
+    margin-left: 38px;
+    margin-top: 5.29px;
+    width: 42px;
+  }
+  
+  .reserve-vol .overlap-group-1 {
+    align-items: flex-end;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 60px;
+    margin-top: 119px;
+    min-width: 200px;
+    padding: 16.6px 41px;
+  }
+  
+  .reserve-vol .reservation {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s2);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 26px;
+    width: 118px;
+  }
+  
+  .reserve-vol .group {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .reserve-vol .rectangle {
+    left: 0;
+    position: absolute;
+    width: 1440px;
+  }
+  
